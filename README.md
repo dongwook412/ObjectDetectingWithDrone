@@ -1,6 +1,9 @@
 # ObjectDetectingWithDrone
 Object Detecting with drone using Intel's CNN algorithm
 
+## Motivation
+The project was carried out at the AI Object Detection Hackathon of the 2018 Engineering Education Festival.
+
 ## Data
 
 * A video shot through the drones in cage using our scenario
